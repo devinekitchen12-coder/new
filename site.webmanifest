@@ -1,0 +1,13 @@
+{
+  "name": "CHING KONG — Our Wok Talks",
+  "short_name": "Ching Kong",
+  "description": "Bold Indo-Chinese street food, fired in our own signature sauces. Panchkula, Haryana.",
+  "icons": [
+    { "src": "/favicon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/favicon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#0a0604",
+  "background_color": "#0a0604",
+  "display": "standalone",
+  "start_url": "/"
+}
